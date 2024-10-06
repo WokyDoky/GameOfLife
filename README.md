@@ -17,7 +17,7 @@ observing how it evolves.
 
 ### Work
 - [ ] Program shall allow User to click and drag mouse to create patters.
-- [ ] Should be able to play, stop, and ff game. 
+- [ ] Programm shall allow user to play, stop, and ff game. 
 
 ### Would be nice: 
 - [ ] Possibly zoom in and out of the screen to see bigger patters. 
